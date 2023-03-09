@@ -13,16 +13,22 @@ Contextualizando todo esse cenário, é de extrema relevância um simples canal 
 ## Problema
 Ressaltando todo o contexto publicado, o projeto visa facilitar a divulgação de conjuntos musicais. Ser uma opção confiável, ágil e simples, ajudando todos aqueles conjuntos musicais independentes que buscam uma maior visibilidade e inserção no cenário musical.
 
+> **Links Úteis**:
+> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 ## Objetivos
 
-O objetivo central deste projeto é construir uma plataforma na qual seja disponibilizado uma espécie de listagem de bandas e artistas de Belo Horizonte e região para o usuário conseguir entrar em contato e contratá-lo(s) para um evento ou uma simples confraternização. A ideia é construir um filtro a fim de segmentar melhor cada estilo musical e facilitar a pesquisa de quem deseja contratar algum músico.
+Objetivo Principal:
+O objetivo central deste projeto é criar um mecanismo que facilite a divulgação de músicos e bandas locais para contratação.
 
 Objetivos Específicos:
-> Facilitar o encontro entre bandas e artistas locais com contratantes;
-> Fomentar a economia criativa de Belo Horizonte e em sua região metropolitana.
+> Oferecer uma listagem das bandas e artistas locais;
+> Criar um filtro a fim de segmentar cada estilo musical e facilitar a pesquisa de quem deseja contratar;
 
 
-## Justificativa (Em construção)
+## Justificativa
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
@@ -59,11 +65,9 @@ Vi que esse artigo analisa as políticas públicas de Belo Horizonte relacionada
 A questão é que com plataformas como desse nosso projeto estaremos incentivando o aumento desses números (economia criativa),
 fomento à economia local. 
 
-6º Ordem dos Músicos do Brasil, pode ter alguma referência interessante: https://www.ombcf.org.br/
-
 ## Público-Alvo
 
-Apesar da existência de várias bandas em Belo Horizonte e na sua região metropolitana, o objetivo desse trabalho é contribuir ao desenvolvimento e atuação de novos artistas com um mecanismo bastante objetivo por meio de listas cadastrais. 
+Tendo em vista a dificuldade que se tem de se encontrar um profissional de musica freelancer e também a dificuldade de iniciantes no ramo encontrarem oportunidades na área, o publico que este programa pretende alcançar, fica direcionado ao público-alvo de homens e mulheres entre 20 a 65 anos  que queiram promover covers artísticos em seus estabelecimentos de comercio e a qualquer pessoa que queria contratar esse profissional autônomo para se apresentar em eventos particulares do solicitante. 
 
-Sendo assim o público-alvo que este projeto pretende alcançar, fica direcionado aqueles profissionais autorais e freelancers no ramo da música que estão a procura de shows para se apresentar, aos empresários e produtores que gostariam  de organizar algum evento em seus estabelecimentos comerciais, ou, qualquer pessoa interessada na contratação dos artistas cadastrados em celebrações de menor porte. Tudo conforme o objetivo do solicitante.
+Mas também para aqueles músicos e bandas que queriam uma oportunidade, poderem divulgar seus talentos para assim serem contratados.
 
